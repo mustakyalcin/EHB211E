@@ -13,7 +13,7 @@ type: book
 ## Sallama yazalım
 
 - Düz yazı buda  {{<hl>}}DALLLLL.  {{</hl>}}
-- {{<hl>}} hylight yapmak için kullandı bunu{{</hl>}} bu kısım kolay $x_1$
+- {{<hl>}} hylight yapmak için kullandı bunu{{</hl>}} bu kısım kolay {{$x_1$}}
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
 ## Program overview
