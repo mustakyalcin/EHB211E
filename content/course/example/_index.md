@@ -10,10 +10,10 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Sallama yazalım
 
-- Fundamental {{<hl>}}DALLLLL.  {{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
+- Düz yazı buda  {{<hl>}}DALLLLL.  {{</hl>}}
+- {{<hl>}} hylight yapmak için kullandı bunu{{</hl>}} bu kısım kolay $x_1$
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
 ## Program overview
